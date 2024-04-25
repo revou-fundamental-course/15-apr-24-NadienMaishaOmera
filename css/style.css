@@ -1,1 +1,12 @@
 /* Ini File css */
+
+main (
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+)
+
+.main-title {
+    text-align: center;
+}
