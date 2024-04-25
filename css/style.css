@@ -10,3 +10,72 @@ main (
 .main-title {
     text-align: center;
 }
+
+.main-section {
+    padding: 36px;
+    background-color: aliceblue;
+    border-radius: 4px
+}
+
+.section-celcius {
+    padding-top: 16px;
+    }
+
+.section-farenheit {
+    padding-top: 16px;
+    }
+
+.section-result {
+    padding-top: 16px;
+    }
+
+.section-explanation {
+    padding-top: 16px;
+    }
+
+ .text-area {
+    height: 32px;
+    width: 100%;
+    resize: none;
+    border: 2px solid lightgray;
+    font-size: 16px;
+    color: darkslateblue;
+     }
+
+.formula-s {
+    font-size: 30px;
+    font-style: italic;
+}
+
+.formula-s>sub {
+    font-style: normal;
+}
+
+.container-button {
+    padding-top: 8px;
+}
+
+button {
+    border: none;
+    font-size: 14px;
+    padding: 5px;
+    border-radius: 4px;
+    font-family: arial;
+}
+
+#button-convert {
+    background-color: green;
+    color: white;
+}
+
+#button-convert {
+    background-color: red;
+    color: white;
+}
+
+#button-convert {
+    background-color: royalblue;
+    color: white;
+}
+
+
